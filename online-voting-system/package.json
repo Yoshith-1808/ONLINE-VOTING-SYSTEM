@@ -1,0 +1,20 @@
+{
+  "name": "online-voting-system",
+  "version": "1.0.0",
+  "description": "An online voting system that allows users to vote on various topics.",
+  "main": "src/index.html",
+  "scripts": {
+    "start": "live-server src",
+    "build": "echo 'Build step not defined'"
+  },
+  "keywords": [
+    "voting",
+    "online",
+    "system"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "live-server": "^1.2.1"
+  }
+}
